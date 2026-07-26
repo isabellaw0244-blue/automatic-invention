@@ -7,9 +7,15 @@ Run it with:   python week1/hello.py
 """
 
 # TODO: print a greeting
-
+print("good afternoon, everyone!")
 
 # TODO: create a variable with your name, and use it in a message
-
+name = "Isabella"
 
 # TODO: try an f-string  ->  print(f"Hello, {name}!")
+
+message = ("good afternoon, I am " )
+
+
+
+print(message + name )
